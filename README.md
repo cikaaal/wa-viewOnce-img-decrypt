@@ -29,5 +29,5 @@ To start the application, run the following command:
 ```
 npm start
 ```
-### 5. **Scan the QR Code in the Terminal and Test the Bot!**
+### 5. **Scan the QR Code in the Terminal and Test it!**
 After starting the application, a QR code will be displayed in the terminal. Open WhatsApp on your phone, scan the QR code. Once connected, you can try to receive a view-once image!
