@@ -1,6 +1,4 @@
-# Node.js Application Setup
-
-## 📦 **How to Install and Start the Node.js Application**
+## 📦 **How to Install**
 
 ### 1. **Prerequisites**
 Before you start, make sure you have the following installed on your system:
