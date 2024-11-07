@@ -1,0 +1,23 @@
+{
+  "name": "wa-viewOnce-img-decrypt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "kal",
+  "license": "ISC",
+  "description": "WhatsApp View-Once Image Cracker",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "baileys": "^6.7.9",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "futoin-hkdf": "^1.5.3",
+    "node-fetch": "^2.7.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
